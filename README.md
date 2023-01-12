@@ -1,6 +1,5 @@
-## Hi There
+## Hi there 👋
 
-### • ⌚ Pro & High-res, pixel perfect Wear OS watch faces 
-### • 🔋 battery friendly, made specially for OLED screens
+We are a small design studio that focuses on creating Wear OS watch faces. You can view our entire portfolio on [Google Play](https://play.google.com/store/apps/dev?id=5591589606735981545). or you can visit our website here [https://amoledwatchfaces.com](https://amoledwatchfaces.com)
 
-[https://amoledwatchfaces.com](https://amoledwatchfaces.com).
+We spend our free time working on Wear OS applications (still learning), which you can find on this GitHub profile :slightly_smiling_face:
